@@ -40,7 +40,7 @@
     "types": "node ../shared/generate-declarations.js"
   },
   "dependencies": {
-    "@aliemir/dom-to-fiber-utils": "^0.4.0",
+    "@aliemir/dom-to-fiber-utils": "^0.5.1",
     "@refinedev/devtools-shared": "1.1.14",
     "error-stack-parser": "^2.1.4",
     "lodash": "^4.17.21",
